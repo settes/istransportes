@@ -875,7 +875,7 @@ pre {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #12ae22;
+  background-color: #069979;
 }
 .cid-qn2bZFoRyR button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1083,6 +1083,9 @@ pre {
     border-left: .30em solid transparent;
   }
 }
+.cid-qn2c5D2D9h {
+  background-image: url("../../../assets/images/mercedes-benz-s600-1a-2000x1250.png");
+}
 .cid-qn2cmgOgDq {
   background-image: url("../../../assets/images/background1.jpg");
 }
@@ -1095,42 +1098,7 @@ pre {
   color: #767676;
 }
 .cid-qn2cqPL3j5 {
-  background-image: url("../../../assets/images/background2.jpg");
-}
-.cid-qn2cFPcjnD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-qn2cFPcjnD .card-img {
-  background-color: #fff;
-}
-.cid-qn2cFPcjnD .card-img a {
-  display: block;
-  padding-top: 2rem;
-}
-.cid-qn2cFPcjnD .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-qn2cFPcjnD h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qn2cFPcjnD p {
-  text-align: left;
-}
-.cid-qn2cFPcjnD .mbr-text {
-  color: #767676;
-}
-.cid-qn2cFPcjnD .card-wrapper {
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qn2cFPcjnD .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+  background-image: url("../../../assets/images/ggolcfe-2000x1250.png");
 }
 .cid-qn2cIilMxG {
   padding-top: 90px;
@@ -1495,7 +1463,7 @@ pre {
   border-bottom-left-radius: 3px;
 }
 .cid-qn2dmViAUw {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
