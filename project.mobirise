@@ -28,7 +28,10 @@
     },
     "versionFirst": "4.0.6",
     "uniqCompNum": 28,
-    "versionPublish": "4.0.6"
+    "versionPublish": "4.0.6",
+    "favicon": "@PROJECT_PATH@/assets/images/537555-449611721716977-1420632633-n-128x180.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -472,7 +475,7 @@
               }
             },
             "B": {
-              "color": "#767676"
+              "color": "#616161"
             },
             "H3": {
               "color": "#069979"
