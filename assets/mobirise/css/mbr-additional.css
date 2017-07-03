@@ -1078,19 +1078,35 @@ pre {
 .cid-qnMTvAKUpX {
   background-image: url("../../../assets/images/homebackground-2000x1250.png");
 }
-.cid-qnMTHr7vkj {
+.cid-qolNcy8Q38 {
+  padding-top: 90px;
+  padding-bottom: 30px;
   background-image: url("../../../assets/images/quemsomos-2000x1331.png");
 }
-.cid-qnMTHr7vkj h1 {
+@media (min-width: 992px) {
+  .cid-qolNcy8Q38 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qolNcy8Q38 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qolNcy8Q38 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-qolNcy8Q38 B {
   color: #616161;
 }
-.cid-qnMTHr7vkj h2,
-.cid-qnMTHr7vkj h3,
-.cid-qnMTHr7vkj p {
-  color: #767676;
-}
-.cid-qnMTHr7vkj H3 {
+.cid-qolNcy8Q38 H3 {
   color: #069979;
+}
+.cid-qolNcy8Q38 .mbr-text,
+.cid-qolNcy8Q38 .mbr-section-btn {
+  color: #616161;
 }
 .cid-qnMUgoRhAV {
   padding-top: 90px;
