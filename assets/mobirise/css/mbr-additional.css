@@ -1107,6 +1107,7 @@ pre {
 .cid-qolNcy8Q38 .mbr-text,
 .cid-qolNcy8Q38 .mbr-section-btn {
   color: #616161;
+  text-align: left;
 }
 .cid-qnMUgoRhAV {
   padding-top: 90px;
@@ -1201,13 +1202,17 @@ pre {
 .cid-qnMUpeE4tz .btn {
   font-size: 14px;
 }
-.cid-qnYQ8j6EVG {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-qolR45alZ5 {
+  padding-top: 90px;
+  padding-bottom: 75px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-qnYQ8j6EVG H2 {
-  text-align: center;
+.cid-qolR45alZ5 .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-qolR45alZ5 .social-list a:focus {
+  text-decoration: none;
 }
 .cid-qnYOwJwZT9 {
   padding-top: 15px;
