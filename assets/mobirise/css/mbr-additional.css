@@ -875,7 +875,7 @@ pre {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #ffffff;
 }
 .cid-qnMTsVAGVP button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1122,7 +1122,7 @@ pre {
 }
 .cid-qnMTTM0TyE {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qnMTTM0TyE h4 {
@@ -1141,6 +1141,29 @@ pre {
   text-align: center;
 }
 .cid-qnMTTM0TyE P {
+  text-align: center;
+}
+.cid-qqCvqlNmyi {
+  padding-top: 15px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qqCvqlNmyi h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-qqCvqlNmyi p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qqCvqlNmyi .card-box {
+  padding-top: 2rem;
+}
+.cid-qqCvqlNmyi .card-title {
+  text-align: center;
+}
+.cid-qqCvqlNmyi P {
   text-align: center;
 }
 .cid-qnYRB1zT73 {
