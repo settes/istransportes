@@ -806,6 +806,9 @@
               "a:focus": {
                 "text-decoration": "none"
               }
+            },
+            "B": {
+              "color": "#465052"
             }
           },
           "_name": "social-buttons2",
